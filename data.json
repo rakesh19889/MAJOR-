@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "name": "user",
+            "email": "user@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234",
+            "test_cases": null,
+            "program": null
+        },
+        {
+            "name": "test",
+            "email": "test@gmail.com",
+            "age": 12,
+            "sex": "Male",
+            "password": "12345",
+            "test_cases": null,
+            "program": null
+        },
+        {
+            "name": "rakesh",
+            "email": "boyapatirakesh7989@gmail.com",
+            "age": 20,
+            "sex": "Male",
+            "password": "Vtu@19889",
+            "test_cases": null,
+            "program": null
+        },
+        {
+            "name": "test",
+            "email": "test@gmail.com",
+            "age": 12,
+            "sex": "Male",
+            "password": "123",
+            "test_cases": null,
+            "program": null
+        }
+    ]
+}
